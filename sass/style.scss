@@ -1,0 +1,10 @@
+$color: blue;
+
+h1 {
+    font-size: 10px + 10px;
+}
+
+p {
+    color: $color;
+    font-size: 10px * 3;
+}
